@@ -104,7 +104,7 @@ It might be necessary to rejig things a little, moving some more of the
 theory into pre-lecture reading so that the synchronous learning
 sessions make better use of the time we have everyone together. I did
 enjoy the outcome of the practical exercise of making the best and worst
-graphs from the gapminder data. One group
+graphs from the gapminder data.
 
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
