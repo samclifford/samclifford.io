@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Bio
 
-I'm a Data Scientist at a tech company in the Netherlands where I support company-wide experimentation as part of the Research and Consultancy team. My duties at this company have included 
+I'm a Data Scientist at a tech company in the Netherlands where I support company-wide experimentation as part of the Research and Consultancy team. My work has involved working within the experimentation track and with other teams within the company on experiment quality and experiment impact. This also includes internal training on our culture of experimentation, the science behind it, and our use of sequential testing. 
 
 Prior to joining industry I was an Assistant Professor at the [London School of Hygiene and Tropical Medicine](https://lshtm.ac.uk/aboutus/people/clifford.sam) on pneumococcal disease and vaccination and dengue fever under Dr Stefan Flasche and on SARS-CoV-2/COVID-19 as part of the [CMMID COVID-19 Working Group](https://cmmid.github.io/topics/covid19/). My teaching included module coordination and lecturer of 2491 - Data Challenge and lecturer in 2490 - Machine Learning.
 
