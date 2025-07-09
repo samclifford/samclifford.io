@@ -16,9 +16,7 @@
 title: Sam Clifford, PhD, FHEA
 email: sj.clifford@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal blog of Sam Clifford, an Australian applied statistician working as a Data Scientists in the Netherlands (formerly in the UK)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://samclifford.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
