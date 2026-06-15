@@ -1,5 +1,7 @@
 Today a bunch of us working with Nick Osborne went up to the top of the Health Sciences Building at UQ Herston (within the RBWH) to learn from [Max Tyler](https://www.linkedin.com/in/max-tyler-uq/) (one of the group's PhD students) about how to access and change over the pollen collector drum. It was enlightening to see how it's collected and very, very Queensland that a big safety message was "Wear a hat if you're going to be up here more than 20 minutes, and bring water if you're alone". No one wants to discover a dessicated scientist.
 
+<!--more-->
+
 <div align='center'>
 <img src="/docs/assets/images/pinbacker.jpg" width="50%" height="auto" alt = "Mark Strong as the disfigured captain 'Pinbacker' in the film 'Sunshine' (2007).">
 </div>

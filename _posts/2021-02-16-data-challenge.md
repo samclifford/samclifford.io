@@ -5,6 +5,8 @@ into the other (2490 Machine Learning). My module, 2491 Data Challenge,
 sees students organising themselves into teams and bidding for the
 available projects with our partner organisations.
 
+<!--more-->
+
 Over the course of four weeks they meet with the client, scope out the
 project, do some exploratory data analysis, formulate a model for
 analysis, do some model checking, create some publication-ready plots,

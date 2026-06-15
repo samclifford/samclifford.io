@@ -8,6 +8,8 @@ particularly gaining an appreciation of what the flaws of various
 approaches are and how later pedagogical frameworks aim to address
 these.
 
+<!--more-->
+
 One of the most valuable exercises in PGCILT was the module creation. It
 pushed me to think about content delivery that is remote and
 asynchronous. With the COVID-19 pandemic leading to a shift in online
