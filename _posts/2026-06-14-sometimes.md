@@ -7,5 +7,5 @@ And then sometimes you remember that you haven't yet finished writing up her jou
 Sometimes.
 
 <div align='center'>
-<img src="/docs/assets/images/panthera.jpg" width="50%" height="auto">
+<img src="/docs/assets/images/panthera.jpg" width="100%" height="auto">
 </div>
