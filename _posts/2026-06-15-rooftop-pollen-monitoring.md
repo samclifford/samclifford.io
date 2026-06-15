@@ -10,9 +10,9 @@ It was the first time I'd been up so high in the Herston area and while I apprec
 
 <div align='center'>
 <img src="/docs/assets/images/mountains_gandalf.jpg" width="50%" height="auto" alt = "RBWH complex with the Taylor Range in the background.">
-
+</div>
 <p>
-
+<div align='center'>
 <img src="/docs/assets/images/isengard.jpg" width="50%" height="auto" alt = "Northern portal of the Clem Jones tunnel, Bowen Hills, Brisbane.">
 </div>
 
